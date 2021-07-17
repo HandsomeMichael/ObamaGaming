@@ -1,0 +1,3 @@
+displayName = Obama Gaming Mod
+author = LastHue
+version = 0.6
